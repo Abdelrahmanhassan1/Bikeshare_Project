@@ -1,4 +1,4 @@
-Hello Sir,
+
 I am Abderahman,
 I managed to solve this project after checking the provided data several times.
 I solved the errors i got.
